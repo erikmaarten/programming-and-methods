@@ -1,0 +1,12 @@
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.articles {
+    min-height: 1000px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
